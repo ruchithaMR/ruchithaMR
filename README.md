@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ruchitha M R  
 
-🎓 I'm a 3rd-year Information Science Engineering student  
+🎓 I'm a 4rd-year Information Science Engineering student  
 💻 Passionate about Full-Stack Web Development & Data Science  
 🌱 Currently learning DSA + Python + Web Technologies  
 ✨ Aspiring Software Engineer | Open Source Enthusiast  
