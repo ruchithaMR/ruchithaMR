@@ -9,7 +9,7 @@
 
 ## 🌐 Socials  
 
-📧 Email: ruchithamr@gmail.com  
+📧 Email: ruchigowda@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchitha-m-r/)  
 
